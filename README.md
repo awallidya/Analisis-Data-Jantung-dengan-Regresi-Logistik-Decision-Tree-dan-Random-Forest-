@@ -1,0 +1,2 @@
+# Analisis-Data-Jantung-dengan-Regresi-Logistik-Decision-Tree-dan-Random-Forest-
+Tugas untuk menganalisis data jantung yang diambil dari website Kaggle dengan menggunakan tiga perbandingan model klasifikasi dalam Machine Learning yaitu, Regresi Logistik, Decision Tree, dan Random Forest. Dalam Penugasan ini algoritma terbaik adalah Random Forest, selain itu dilakaukan tahapan cross validation dan learning curves.
